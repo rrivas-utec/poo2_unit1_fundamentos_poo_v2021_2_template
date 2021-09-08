@@ -1,0 +1,8 @@
+#input
+    3
+    T A 0 0 30 20 R
+    R A 30 0 30 20
+    C E 15 10 7.5
+#output
+    34.63 8.62
+#endtest

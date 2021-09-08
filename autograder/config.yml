@@ -1,0 +1,12 @@
+limit_submissions: -1
+required_files:
+  - calculate_pentagon.cpp
+  - calculate_pentagon.h
+  - number.cpp
+  - number.h
+  - quick_sort.cpp
+  - quick_sort.h
+  - search_odds.cpp
+  - search_odds.h
+  - composite_figure.cpp
+  - composite_figure.h
