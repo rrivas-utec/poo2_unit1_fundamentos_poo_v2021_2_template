@@ -1,8 +1,29 @@
 #input
     3
-    T A 0 0 30 20 R
+    T A 0 0 30 20 R B
     R A 30 0 30 20
-    C E 15 10 7.5
+    C E 45 10 7.5
 #output
-    34.63 8.62
+    34.6307 8.61742
+#endtest
+
+#input
+    6
+    T A 0 0 30 20 R B
+    R A 30 0 30 20
+    C E 45 10 7.5
+    T A 60 0 30 20 L B
+    T A 30 20 15 10 R B
+    T A 45 20 15 10 L B
+#output
+    45 10
+#endtest
+
+#input
+    3
+    T A 0 0 45 30 R B
+    T A 45 0 45 30 L B
+    C E 45 10 7.5
+#output
+    45 10
 #endtest

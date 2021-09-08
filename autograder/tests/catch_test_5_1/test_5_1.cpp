@@ -13,25 +13,29 @@ static void question_5_1(){
     for (int i = 0; i < n; ++i) {
         char figure;
         char operation;
-        char side;
+        char vs;
+        char hs;
         double x, y, w, h, r;
         cin >> figure >> operation >> x >> y;
         switch(figure) {
             case 'T':
-                cin >> w >> h >> side;
+                cin >> w >> h >> vs >> hs;
                 if (operation == 'A')
                     cf.add<triangle_t>(x, y, w, h,
-                                       side == 'L'? side::left: side::right);
-                else
+                                       vs == 'L' ? vside::left : vside::right,
+                                       hs == 'T' ? hside::top : hside::bottom);
+                else {
                     cf.extract<triangle_t>(x, y, w, h,
-                                           side == 'L'? side::left: side::right);
+                                           vs == 'L' ? vside::left : vside::right,
+                                           hs == 'T' ? hside::top : hside::bottom);
+                }
                 break;
             case 'R':
                 cin >> w >> h;
                 if (operation == 'A')
-                    cf.add<triangle_t>(x, y, w, h);
+                    cf.add<rectangle_t>(x, y, w, h);
                 else
-                    cf.extract<triangle_t>(x, y, w, h);
+                    cf.extract<rectangle_t>(x, y, w, h);
                 break;
             case 'C':
                 cin >> r;
