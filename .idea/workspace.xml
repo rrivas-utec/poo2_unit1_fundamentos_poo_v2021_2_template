@@ -2,7 +2,6 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="poo2_unit1_fundamentos_poo_v2021_2" targetName="poo2_unit1_fundamentos_poo_v2021_2_test" />
       <config projectName="poo2_unit1_fundamentos_poo_v2021_2" targetName="poo2_unit1_fundamentos_poo_v2021_2" />
     </generated>
   </component>
@@ -12,7 +11,20 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f72d508-267c-4c5d-ae51-c51d005f1d65" name="Changes" comment="" />
+    <list default="true" id="7f72d508-267c-4c5d-ae51-c51d005f1d65" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p3.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p4.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p5.h" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,10 +34,14 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="3a6uh1zu" />
   </component>
   <component name="ProjectId" id="1xpnI1HpIGnbcNXMf0W1viPYuXP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,18 +50,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
   </component>
-  <component name="RunManager" selected="CMake Application.poo2_unit1_fundamentos_poo_v2021_2">
-    <configuration name="poo2_unit1_fundamentos_poo_v2021_2_test" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="poo2_unit1_fundamentos_poo_v2021_2" TARGET_NAME="poo2_unit1_fundamentos_poo_v2021_2_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="poo2_unit1_fundamentos_poo_v2021_2" RUN_TARGET_NAME="poo2_unit1_fundamentos_poo_v2021_2_test" TEST_MODE="SUITE_TEST">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-        <option name="BeforeTestRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -61,10 +72,6 @@
         <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Catch.poo2_unit1_fundamentos_poo_v2021_2_test" />
-      <item itemvalue="CMake Application.poo2_unit1_fundamentos_poo_v2021_2" />
-    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -75,11 +82,22 @@
       <option name="presentableId" value="Default" />
       <updated>1631060814382</updated>
       <workItem from="1631060816310" duration="371000" />
-      <workItem from="1631061286740" duration="156000" />
+      <workItem from="1631061286740" duration="528000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
