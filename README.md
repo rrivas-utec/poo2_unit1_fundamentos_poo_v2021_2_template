@@ -219,7 +219,7 @@ Adicionalmente se incluye los cálculos que deberían ser considerados para este
 **Use Case:**  
 ```cpp
     figura_compuesta_t fc;
-    fc.add<triangle_t>(0, 0, 30, 20, vside::right, hside::top);
+    fc.add<triangle_t>(0, 0, 30, 20, vside::right, hside::bottom);
     fc.add<rectangle_t>(30, 0, 30, 20);
     fc.extract<circle_t>(45, 10, 7.5);
     
