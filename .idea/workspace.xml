@@ -16,9 +16,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7f72d508-267c-4c5d-ae51-c51d005f1d65" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_5_1/test_5_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_5_1/test_5_1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_5_1/test_5_1.in" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_5_1/test_5_1.in" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,11 +58,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -77,6 +69,8 @@
       <updated>1631060814382</updated>
       <workItem from="1631060816310" duration="371000" />
       <workItem from="1631061286740" duration="1378000" />
+      <workItem from="1631138227361" duration="1808000" />
+      <workItem from="1631150371779" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1631061871837</created>
@@ -92,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631062081647</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1631138481883</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631138481883</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
