@@ -218,7 +218,7 @@ Adicionalmente se incluye los cálculos que deberían ser considerados para este
 
 **Use Case:**  
 ```cpp
-    figura_compuesta_t fc;
+    composite_figure_t fc;
     fc.add<triangle_t>(0, 0, 30, 20, vside::right, hside::bottom);  // x left, y bottom, w, h, ubicacion de lado vertical, ubicacion de lado horizontal
     fc.add<rectangle_t>(30, 0, 30, 20);                             // x left, y bottom, w, h
     fc.extract<circle_t>(45, 10, 7.5);                              // x center, y center, radio
