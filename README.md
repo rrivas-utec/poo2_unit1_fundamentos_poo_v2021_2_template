@@ -143,7 +143,7 @@ Elaborar la función **`search_odds`** que tome como parámetro un vector de obj
 ## Exercise #3 - calculate pentagon (2 points)
 
 Elaborar la función **`calculate_pentagon`** que tome como parámetro un número positivo (**`n`**) y que calcule cuantos puntos existen en una figura pentagonal alrededor de un punto central en **`n`** iteraciones.  
-En la imagen se puede ver que en la primera iteración (*`n = 1`*) solo se obtiene 1 punto, en la segunda (*`n = 2`*) se obtiene 6 y en la tercera (*`n = 3`*) se obtiene 31.
+En la imagen se puede ver que en la primera iteración (*`n = 1`*) solo se obtiene 6 punto, en la segunda (*`n = 2`*) se obtiene 16 y en la tercera (*`n = 3`*) se obtiene 31.
 <p style="text-align:center">
 <img alt="" src="static/img/pentagon_number.png" width="500"/>
 </p>    
@@ -219,7 +219,7 @@ Adicionalmente se incluye los cálculos que deberían ser considerados para este
 **Use Case:**  
 ```cpp
     figura_compuesta_t fc;
-    fc.add<triangle_t>(0, 0, 30, 20, vside::right, hside::top);
+    fc.add<triangle_t>(0, 0, 30, 20, vside::right, hside::bottom);
     fc.add<rectangle_t>(30, 0, 30, 20);
     fc.extract<circle_t>(45, 10, 7.5);
     
