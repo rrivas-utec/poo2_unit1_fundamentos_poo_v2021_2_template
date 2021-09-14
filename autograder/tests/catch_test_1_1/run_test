@@ -7,8 +7,8 @@
 
 # src code references
 source_code='
-  ../p1.cpp
   test_1_1.cpp
+  ../number.cpp
   '
 
 # compilation command

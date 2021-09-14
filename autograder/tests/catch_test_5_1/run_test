@@ -7,7 +7,7 @@
 
 # src code references
 source_code='
-  ../p5.cpp
+  ../composite_figure.cpp
   test_5_1.cpp
   '
 

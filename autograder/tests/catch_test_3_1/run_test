@@ -7,7 +7,8 @@
 
 # src code references
 source_code='
-  ../p3.cpp
+  ../calculate_pentagon.cpp
+  ../number.cpp
   test_3_1.cpp
   '
 

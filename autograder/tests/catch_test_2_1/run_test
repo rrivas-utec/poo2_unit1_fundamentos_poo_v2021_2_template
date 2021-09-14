@@ -7,7 +7,8 @@
 
 # src code references
 source_code='
-  ../p2.cpp
+  ../search_odds.cpp
+  ../number.cpp
   test_2_1.cpp
   '
 
