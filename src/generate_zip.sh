@@ -6,6 +6,7 @@ source_code='
         number.h number.cpp
         quick_sort.h quick_sort.cpp
         search_odds.h search_odds.cpp
+        composite_figure.h composite_figure.cpp
   '
 rm -f ${project_name}.zip
 zip -r -S ${project_name} ${source_code}

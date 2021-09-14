@@ -5,7 +5,6 @@
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="poo2_unit1_fundamentos_poo_v2021_2" targetName="poo2_unit1_fundamentos_poo_v2021_2_test" />
       <config projectName="poo2_unit1_fundamentos_poo_v2021_2" targetName="poo2_unit1_fundamentos_poo_v2021_2" />
     </generated>
   </component>
@@ -16,22 +15,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f72d508-267c-4c5d-ae51-c51d005f1d65" name="Changes" comment="Updated Tests">
-      <change afterPath="$PROJECT_DIR$/src/generate_zip.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_1_1/test_1_1.in" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_1_1/test_1_1.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_1_1/test_1_2.in" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_1_1/test_1_2.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_1_1/test_1_3.in" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_1_1/test_1_3.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_1_1/test_1_4.in" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_1_1/test_1_4.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_2_1/test_2_1.in" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_2_1/test_2_1.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_2_1/test_2_2.in" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_2_1/test_2_2.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_3_1/test_3_1.in" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_3_1/test_3_1.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_4_1/in_4_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_4_1/in_4_1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_4_1/in_4_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_4_1/in_4_2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_4_1/in_4_4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_4_1/in_4_4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_4_1/test_4_1.in" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_4_1/test_4_1.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_4_1/test_4_2.in" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_4_1/test_4_2.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_5_1/test_5_1.in" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_5_1/test_5_1.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/search_odds.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/search_odds.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autograder/tests/cppcheck/run_test" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/cppcheck/run_test" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,11 +61,6 @@
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.poo2_unit1_fundamentos_poo_v2021_2">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="poo2_unit1_fundamentos_poo_v2021_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="poo2_unit1_fundamentos_poo_v2021_2" TARGET_NAME="poo2_unit1_fundamentos_poo_v2021_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="poo2_unit1_fundamentos_poo_v2021_2" RUN_TARGET_NAME="poo2_unit1_fundamentos_poo_v2021_2">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -205,7 +185,8 @@
       <workItem from="1631150371779" duration="7000" />
       <workItem from="1631241346984" duration="73000" />
       <workItem from="1631241589421" duration="2721000" />
-      <workItem from="1631644493016" duration="2282000" />
+      <workItem from="1631644493016" duration="3277000" />
+      <workItem from="1631653573157" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1631061871837</created>
@@ -242,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631645426646</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated Tests">
+      <created>1631647021398</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1631647021398</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
