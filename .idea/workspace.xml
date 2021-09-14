@@ -5,6 +5,7 @@
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
+      <config projectName="poo2_unit1_fundamentos_poo_v2021_2" targetName="poo2_unit1_fundamentos_poo_v2021_2_test" />
       <config projectName="poo2_unit1_fundamentos_poo_v2021_2" targetName="poo2_unit1_fundamentos_poo_v2021_2" />
     </generated>
   </component>
@@ -14,19 +15,23 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f72d508-267c-4c5d-ae51-c51d005f1d65" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/poo2_unit1_fundamentos_poo_v2021_2_template.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/poo2_unit1_fundamentos_poo_v2021_2_template.iml" afterDir="false" />
+    <list default="true" id="7f72d508-267c-4c5d-ae51-c51d005f1d65" name="Changes" comment="Updated Tests">
+      <change afterPath="$PROJECT_DIR$/src/generate_zip.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_1_1/run_test" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_1_1/run_test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_2_1/run_test" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_2_1/run_test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_3_1/run_test" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_3_1/run_test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_4_1/run_test" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_4_1/run_test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_5_1/run_test" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_5_1/run_test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autograder/tests/cppcheck/cppcheck.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/cppcheck/cppcheck.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autograder/tests/cppcheck/run_test" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/cppcheck/run_test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autograder/tests/cppcheck/suppressions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/cppcheck/suppressions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_1_1/test_1_1.in" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_1_1/test_1_1.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_1_1/test_1_2.in" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_1_1/test_1_2.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_1_1/test_1_3.in" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_1_1/test_1_3.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_1_1/test_1_4.in" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_1_1/test_1_4.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_2_1/test_2_1.in" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_2_1/test_2_1.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_2_1/test_2_2.in" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_2_1/test_2_2.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_3_1/test_3_1.in" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_3_1/test_3_1.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_4_1/in_4_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_4_1/in_4_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_4_1/in_4_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_4_1/in_4_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_4_1/in_4_4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_4_1/in_4_4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_4_1/test_4_1.in" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_4_1/test_4_1.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_4_1/test_4_2.in" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_4_1/test_4_2.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autograder/tests/catch_test_5_1/test_5_1.in" beforeDir="false" afterPath="$PROJECT_DIR$/autograder/tests/catch_test_5_1/test_5_1.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/search_odds.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/search_odds.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +63,17 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rudri\Documents\UTEC\CS1103 - New\Unit 1\poo2_unit1_fundamentos_poo_v2021_2_template\src" />
+    </key>
   </component>
   <component name="RunManager" selected="CMake Application.poo2_unit1_fundamentos_poo_v2021_2">
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
@@ -101,12 +112,81 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="close_docker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="poo2_unit1_fundamentos_poo_v2021_2_template" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools/docker" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/docker/close_docker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_autograder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="poo2_unit1_fundamentos_poo_v2021_2_template" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools/docker" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/docker/run_autograder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_docker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="poo2_unit1_fundamentos_poo_v2021_2_template" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools/docker" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/docker/run_docker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="CMake Application.poo2_unit1_fundamentos_poo_v2021_2" />
       <item itemvalue="Python.build_docker" />
+      <item itemvalue="Python.close_docker" />
+      <item itemvalue="Python.run_docker" />
+      <item itemvalue="Python.run_autograder" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.run_autograder" />
+        <item itemvalue="Python.run_docker" />
+        <item itemvalue="Python.close_docker" />
         <item itemvalue="Python.build_docker" />
       </list>
     </recent_temporary>
@@ -125,7 +205,7 @@
       <workItem from="1631150371779" duration="7000" />
       <workItem from="1631241346984" duration="73000" />
       <workItem from="1631241589421" duration="2721000" />
-      <workItem from="1631644493016" duration="902000" />
+      <workItem from="1631644493016" duration="2282000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1631061871837</created>
@@ -155,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631241359105</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated Tests">
+      <created>1631645426646</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1631645426646</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +262,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Updated Tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Tests" />
   </component>
 </project>
